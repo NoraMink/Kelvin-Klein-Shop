@@ -1,4 +1,4 @@
-# Kelvin-Klein-Shop
+# Klein-Blue-Shop
 
 #Цель
 Изучить технологии разработки ПО
